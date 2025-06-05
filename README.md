@@ -61,6 +61,6 @@ Each section is self-contained and can be run interactively in the notebook:
 Run the cells under each use case.
 Provide inputs when prompted (e.g., sentences for similarity, text and target language for translation).
 For the chatbot, interactively type queries and get responses.
-Review validation results in structured pandas DataFrames
+Review validation results in structured pandas DataFrames.
 
 
